@@ -38,4 +38,5 @@ variables : Temperature, currents, salinity, Ice concentration (only Arctic and 
 
 Regions : Arctic, Atlantic, Pacific,
 	
-![map setting (left bar)](https://raw.githubusercontent.com/DFO-Ocean-Navigator/Ocean-Navigator-Manual/master/screenshots/sideBar.png "Map Settings")  
+![map setting (left bar)](https://github.com/DFO-Service-Desk/Image_production/blob/master/giops_ac_240.png "Map Example")  
+
